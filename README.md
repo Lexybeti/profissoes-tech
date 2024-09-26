@@ -31,14 +31,3 @@ Este projeto está em constante desenvolvimento. Pode haver bugs ou funcionalida
 **Vamos juntos construir um futuro tecnológico mais brilhante!** ✨
 
 **#desvendandoaprofissao #tecnologia #desenvolvimentoweb**
-
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu projeto, adicionando mais detalhes sobre as funcionalidades, o público-alvo e as tecnologias utilizadas.
-* **Imagens:** Inclua imagens para deixar o README mais atrativo e visualmente interessante.
-* **Links:** Adicione links para o seu portfólio, LinkedIn ou outros projetos relevantes.
-* **Chamadas para Ação:** Incentive os usuários a contribuírem com o projeto, a seguir o seu perfil nas redes sociais ou a entrar em contato.
-
-**Com este README, você terá um ponto de partida para criar um repositório organizado e atraente no GitHub.** 
-
-**Gostaria de adicionar mais alguma coisa?**
